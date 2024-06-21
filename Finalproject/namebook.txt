@@ -1,0 +1,56 @@
+Harry Potter and the Philosopher's
+J. K. Rowling
+1997
+- Borrow by big
+- Return by big
+- Borrow by numfah
+- Return by numfah1
+---
+Harry Potter and the Chamber of Secrets
+J. K. Rowling
+1998
+- Borrow by mick
+- Return by mick
+- Borrow by fah
+- Return by fah
+---
+Harry Potter and the Prisoner of Azkaban
+J. K. Rowling
+1999
+- Borrow by fern
+- Return by fern
+- Borrow by fah
+- Return by fah
+---
+Harry Potter and the Goblet of Fire
+J. K. Rowling
+2000
+- Borrow by mike
+- Return by mike
+- Borrow by mick
+- Return by mick
+---
+Harry Potter and the Order of the Phoenix
+J. K. Rowling
+2003
+- Borrow by angoon
+- Return by angoon
+- Borrow by nate
+- Return by nate
+---
+Harry Potter and the Half-Blood Prince
+J. K. Rowling
+2005
+- Borrow by jennie
+- Return by jennie
+- Borrow by angoon
+- Return by angoon
+---
+Harry Potter and the Deathly Hallows
+J. K. Rowling
+2007
+- Borrow by big
+- Return by big
+- Borrow by kanom
+- Return by kanom
+---
